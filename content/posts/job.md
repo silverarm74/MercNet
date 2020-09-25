@@ -1,6 +1,6 @@
 ---
 title: Paul Fart Mall Cop
-date: "2020-09-34"
+date: "2020-09-24"
 draft: false
 ---
 
