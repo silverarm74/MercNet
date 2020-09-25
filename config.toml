@@ -1,7 +1,7 @@
 baseURL = "https://neutrinoexpress.jillr.dev/"
 languageCode = "en-us"
 title = "Neutrino Express - A Merc*Astra Company"
-theme = "harbor"
+theme = "ananke"
 publishDir = "docs"
 sectionPagesMenu = "main"
 
