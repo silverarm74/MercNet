@@ -11,7 +11,7 @@ draft: false
 950 million Gav clones were unleashed on the galaxy, making blue-haired Caucasian men who like Guinness the single largest demographic in the galaxy. 
 Sources claim the feat is somehow related to an alleged conspiracy by the Wormgate Corporation. 
 
-**Bio:**
+## Bio
 
 The handsome, blue-haired scientist is one of the oldest humans in the Galaxy, if you're counting from birth dates. 
 Born in the late 20th century, "Gav" studied nuclear physics (earning a Ph.D. in nuclear engineering in 2003) and worked for the government, 
