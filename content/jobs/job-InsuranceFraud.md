@@ -1,5 +1,5 @@
 ---
-title: Insurance Fraud Investigation
+title: 'Job: Insurance Fraud Investigation'
 date: "2020-09-26"
 draft: false
 ---
