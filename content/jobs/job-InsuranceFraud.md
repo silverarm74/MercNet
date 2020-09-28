@@ -5,10 +5,10 @@ draft: false
 ---
 
 
-# Insurance Fraud Investigation
+# Insurance Fraud Investigation  
 
-**Location:** Luna, Sol System
+**Location:** Luna, Sol System  
 
-**Payout:** R3
+**Payout:** R3  
 
 **Description:** Independent investigation of statistical discrepancies at a popular sport rental facility. Fraud or fowl play is suspected.
