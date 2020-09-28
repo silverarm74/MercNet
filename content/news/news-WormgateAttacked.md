@@ -1,5 +1,5 @@
 ---
-title: News: Wormgate Corporation Attacked
+title: 'News: Wormgate Corporation Attacked'
 date: "2020-09-24"
 draft: false
 ---

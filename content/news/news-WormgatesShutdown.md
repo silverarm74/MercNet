@@ -1,5 +1,5 @@
 ---
-title: News: Wormgates Shut Down in 20k Systems
+title: 'News: Wormgates Shut Down in 20k Systems'
 date: "2020-09-25"
 draft: false
 ---

@@ -1,7 +1,7 @@
-baseURL = "https://neutrinoexpress.jillr.dev/"
+baseURL = "https://mercnet.jaredisgray.com"
 languageCode = "en-us"
 title = "MercNet"
 theme = "ananke"
 publishDir = "docs"
 sectionPagesMenu = "main"
-
+layoutDir = "layouts"

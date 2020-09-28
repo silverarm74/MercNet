@@ -1,5 +1,5 @@
 ---
-title: News: Gav Bleuel - Most Clones of Single Sophont in History
+title: 'News: Gav Bleuel - Most Clones of Single Sophont in History'
 date: "2020-09-25"
 draft: false
 ---

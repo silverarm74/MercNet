@@ -1,5 +1,5 @@
 ---
-title: News: Teraport Wars
+title: 'News: Teraport Wars'
 date: "2020-09-24"
 draft: false
 ---

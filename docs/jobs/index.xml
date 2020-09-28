@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jobs on MercNet</title>
+    <link>https://mercnet.jaredisgray.com/jobs/</link>
+    <description>Recent content in Jobs on MercNet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://mercnet.jaredisgray.com/jobs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insurance Fraud Investigation</title>
+      <link>https://mercnet.jaredisgray.com/jobs/job-insurancefraud/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mercnet.jaredisgray.com/jobs/job-insurancefraud/</guid>
+      <description>Insurance Fraud Investigation Location: Luna, Sol System
+Payout: R3
+Description: Independent investigation of statistical discrepancies at a popular sport rental facility. Fraud or fowl play is suspected.</description>
+    </item>
+    
+    <item>
+      <title>Discrete Animal Acquisition</title>
+      <link>https://mercnet.jaredisgray.com/jobs/job-discreteanimalacquisition/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mercnet.jaredisgray.com/jobs/job-discreteanimalacquisition/</guid>
+      <description>Discrete Animal Acquisition Location: Gripp, Mnepholem System
+Payout: R3
+Description: An anonymous client wants to obtain a Jungle Gardens monkey as a pet. Animal must be healthy and be delivered in good condition.</description>
+    </item>
+    
+    <item>
+      <title>Merchandise Recovery</title>
+      <link>https://mercnet.jaredisgray.com/jobs/job-merchandiserecovery1/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mercnet.jaredisgray.com/jobs/job-merchandiserecovery1/</guid>
+      <description>Merchandise Recovery Location: Elltooine, Celeschul System
+Payout: R4
+Description: The Planet Mercenary outlet on Elltooine has lost contact with one of its Customer Activation shuttles. Find it, and bring it back. Quietly, please. Do not loot it.</description>
+    </item>
+    
+  </channel>
+</rss>
