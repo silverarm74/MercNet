@@ -1,7 +1,22 @@
 baseURL = "https://mercnet.jaredisgray.com"
 languageCode = "en-us"
 title = "MercNet"
-theme = "ananke"
+theme = "harbor"
 publishDir = "docs"
 sectionPagesMenu = "main"
 layoutDir = "layouts"
+
+[params]
+  mainSections = ["news", "jobs"]
+
+[[params.nav]]
+  identifier = "jobs"
+  name = "Jobs"
+  url = "/jobs/"
+  weight = 3
+
+[[params.nav]]
+  identifier = "news"
+  name = "News"
+  url = "/news/"
+  weight = 3
