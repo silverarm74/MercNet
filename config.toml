@@ -1,4 +1,4 @@
-baseURL = "https://mercnet.jaredisgray.com"
+baseURL = "https://mercnet.jaredisgray.com/"
 languageCode = "en-us"
 title = "MercNet"
 theme = "harbor"
